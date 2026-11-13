@@ -1,7 +1,13 @@
-
 build-essential
 python3-dev
 libcairo2-dev
 libpango1.0-dev
 pkg-config
 ffmpeg
+texlive-latex-base
+texlive-latex-recommended
+texlive-latex-extra
+texlive-fonts-recommended
+dvisvgm
+ghostscript
+
